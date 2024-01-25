@@ -4,8 +4,8 @@
 
 #### Beginning
 
-[img]
+![alt text](img1.jpg)
 
 #### Finish
 
-[img]
+![alt text](img2.jpg)
