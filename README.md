@@ -2,4 +2,4 @@
 
 ### A lollypop's dashboard
 
-[!alt text](img1.jpg)
+![alt text](img1.jpg)
